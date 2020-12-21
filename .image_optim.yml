@@ -1,0 +1,4 @@
+allow_lossy: true
+jpegoptim:
+  allow_lossy: true
+  max_quality: 75
